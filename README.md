@@ -3,6 +3,8 @@ TDD-kata
 
 Este proyecto es una pequeña introducción al Test Driven Development en ruby, es el resultado del meetup realizado por [Medellín.rb](http://www.meetup.com/medellin-rb/events/219258146/?_af_eid=219258146&a=uc1_te&_af=event)
 
+Los test se realizaron utilizando la libreria [minitest](https://github.com/seattlerb/minitest)
+
 Estructura del proyecto
 -----------------------
 
